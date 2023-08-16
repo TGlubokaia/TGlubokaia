@@ -2,7 +2,7 @@
 
 
 
-| ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGlubokaia&hide=contribs,prs&theme=buefy&hide_border=true&show_icons=true ) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGlubokaia&layout=compact&theme=buefy&hide_border=true ) |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TGlubokaia&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGlubokaia&layout=compact&theme=buefy&hide_border=true ) |
 | ------------- | ------------- |
 
 <!--
